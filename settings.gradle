@@ -1,0 +1,9 @@
+rootProject.name = "ProcessorDemo"
+include ':stub'
+include ':processor'
+include ':annotation'
+include ':app'
+include ':share'
+include ':gift'
+include ':base'
+include ':Router'

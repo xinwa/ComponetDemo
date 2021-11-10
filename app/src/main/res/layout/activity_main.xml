@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnStartSecond"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="启动 SecondActivity" />
+
+        <Button
+            android:id="@+id/btnStartShare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="启动 ShareActivity" />
+
+        <Button
+            android:id="@+id/btnStartGift"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="启动 GiftActivity" />
+
+    </LinearLayout>
+
+</LinearLayout>
