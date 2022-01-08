@@ -15,11 +15,11 @@
     <bytecodeTargetLevel target="1.7">
       <module name="annotation" target="1.7" />
       <module name="processor" target="1.7" />
-      <module name="ProcessorDemo.app" target="11" />
-      <module name="ProcessorDemo.base" target="11" />
-      <module name="ProcessorDemo.gift" target="11" />
-      <module name="ProcessorDemo.Router" target="11" />
-      <module name="ProcessorDemo.share" target="11" />
+      <module name="ProcessorDemo.app" target="1.8" />
+      <module name="ProcessorDemo.base" target="1.8" />
+      <module name="ProcessorDemo.gift" target="1.8" />
+      <module name="ProcessorDemo.Router" target="1.8" />
+      <module name="ProcessorDemo.share" target="1.8" />
       <module name="stub" target="1.7" />
     </bytecodeTargetLevel>
   </component>
